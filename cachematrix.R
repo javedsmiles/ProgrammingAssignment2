@@ -1,7 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
+# Purpose: To calculate the inverse of matrix using cache
+# Creation date: 23 Oct 2020
+# Author: Mohammed Javed Siddiqui
 
-## Write a short comment describing this function
+# This function will 
 
 makeCacheMatrix <- function(x = matrix()) {
 
